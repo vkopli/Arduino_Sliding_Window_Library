@@ -1,0 +1,20 @@
+# For information on keywords, see
+# http://arduino.cc/en/Hacking/LibraryTutorial
+# 
+# Each line has the name of the keyword,
+# followed by a tab (not spaces), 
+# followed by the kind of keyword. 
+# 
+# classes should be KEYWORD1 and are colored orange 
+# functions should be KEYWORD2 and will be brown
+
+###
+SlidingWindow	KEYWORD1
+
+
+###
+update		KEYWORD2
+getMean		KEYWORD2
+getMaxDeviation	KEYWORD2
+get		KEYWORD2
+lineLength	KEYWORD2
